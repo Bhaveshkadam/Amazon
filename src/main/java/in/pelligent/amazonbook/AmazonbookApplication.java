@@ -1,13 +1,13 @@
-package com.amazon;
+package in.pelligent.amazonbook;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class AmazonApplication {
+public class AmazonbookApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(AmazonApplication.class, args);
+		SpringApplication.run(AmazonbookApplication.class, args);
 	}
 
 }
